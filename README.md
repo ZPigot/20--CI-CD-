@@ -4,7 +4,11 @@
 This project implements a CI/CD workflow using GitHub Actions to ensure code quality and streamline deployments. The workflow follows a **Git Flow**-style branching strategy with `develop` and `main` branches.
 
 ### Features
-
+Automated CI pipeline using GitHub Actions
+Pull request testing on develop branch
+Git Flow-style branching (feature → develop → main)
+Easy-to-follow workflow for team collaboration
+Test coverage and code linting (if applicable)
 
 ## User Workflow 
 
